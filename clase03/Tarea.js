@@ -2,11 +2,11 @@
 console.log('--- Ejercicio 1: Suma de Vectores ---');
 
 // Pon tu código aquí
-/*
+
 function sumarVectores(vector1, vector2) {
     // Implementa tu solución aquí
 }
-*/
+
 
 /**
  * Explicación:
@@ -19,11 +19,11 @@ function sumarVectores(vector1, vector2) {
 console.log('\n--- Ejercicio 2: Contar Elementos Pares e Impares ---');
 
 // Pon tu código aquí
-/*
+
 function contarParesImpares(vector) {
     // Implementa tu solución aquí
 }
-*/
+
 
 /**
  * Explicación:
@@ -36,11 +36,11 @@ function contarParesImpares(vector) {
 console.log('\n--- Ejercicio 3: Ordenar Nombres ---');
 
 // Pon tu código aquí
-/*
+
 function ordenarNombres(nombres) {
     // Implementa tu solución aquí
 }
-*/
+
 
 /**
  * Explicación:
@@ -52,11 +52,11 @@ function ordenarNombres(nombres) {
 console.log('\n--- Ejercicio 4: Calcular Producto ---');
 
 // Pon tu código aquí
-/*
+
 function calcularProducto(vector) {
     // Implementa tu solución aquí
 }
-*/
+
 
 /**
  * Explicación:
@@ -69,11 +69,11 @@ function calcularProducto(vector) {
 console.log('\n--- Ejercicio 5: Unión de Conjuntos ---');
 
 // Pon tu código aquí
-/*
+
 function unionConjuntos(conjunto1, conjunto2) {
     // Implementa tu solución aquí
 }
-*/
+
 
 /**
  * Explicación:
