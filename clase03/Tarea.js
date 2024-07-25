@@ -1,10 +1,9 @@
 // Ejercicio 1: Suma de Vectores
 console.log('--- Ejercicio 1: Suma de Vectores ---');
 
-// Pon tu código aquí
-
 function sumarVectores(vector1, vector2) {
     // Implementa tu solución aquí
+    
 }
 
 
@@ -17,8 +16,6 @@ function sumarVectores(vector1, vector2) {
 
 // Ejercicio 2: Contar Elementos Pares e Impares
 console.log('\n--- Ejercicio 2: Contar Elementos Pares e Impares ---');
-
-// Pon tu código aquí
 
 function contarParesImpares(vector) {
     // Implementa tu solución aquí
@@ -95,6 +92,7 @@ let numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 console.log('2. Conteo de pares e impares:', contarParesImpares(numeros));
 
 // Ejemplo del Ejercicio 3: Ordenar Nombres
+
 let nombres = ['Juan', 'Ana', 'Carlos', 'Beatriz'];
 console.log('3. Nombres ordenados:', ordenarNombres(nombres));
 
